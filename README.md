@@ -1,2 +1,2 @@
-# JDBC-Example
+# JDBC
 Fetching data from database
